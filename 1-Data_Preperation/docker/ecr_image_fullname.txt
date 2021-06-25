@@ -1,0 +1,1 @@
+743025358310.dkr.ecr.us-west-2.amazonaws.com/copying-ecr-experiment3:20210625103215

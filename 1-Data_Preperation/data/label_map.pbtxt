@@ -1,0 +1,25 @@
+item {
+    name: "Good_Day_Butter",
+    id: 1,
+    display_name: "Good_Day_Butter"
+}
+item {
+    name: "Good_Day_Pista",
+    id: 2,
+    display_name: "Good_Day_Pista"
+}
+item {
+    name: "Patanjali_Aloevera",
+    id: 3,
+    display_name: "Patanjali_Aloevera"
+}
+item {
+    name: "Patanjali_Haldi_Chandan",
+    id: 4,
+    display_name: "Patanjali_Haldi_Chandan"
+}
+item {
+    name: "Patanjali_Neem",
+    id: 5,
+    display_name: "Patanjali_Neem"
+}
